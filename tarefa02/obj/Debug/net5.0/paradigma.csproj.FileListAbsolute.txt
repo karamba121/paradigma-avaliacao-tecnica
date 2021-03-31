@@ -1,0 +1,16 @@
+C:\Projetos\paradigma\tarefa02\bin\Debug\net5.0\paradigma.exe
+C:\Projetos\paradigma\tarefa02\bin\Debug\net5.0\paradigma.deps.json
+C:\Projetos\paradigma\tarefa02\bin\Debug\net5.0\paradigma.runtimeconfig.json
+C:\Projetos\paradigma\tarefa02\bin\Debug\net5.0\paradigma.runtimeconfig.dev.json
+C:\Projetos\paradigma\tarefa02\bin\Debug\net5.0\paradigma.dll
+C:\Projetos\paradigma\tarefa02\bin\Debug\net5.0\ref\paradigma.dll
+C:\Projetos\paradigma\tarefa02\bin\Debug\net5.0\paradigma.pdb
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\paradigma.csprojAssemblyReference.cache
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\paradigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\paradigma.AssemblyInfoInputs.cache
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\paradigma.AssemblyInfo.cs
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\paradigma.csproj.CoreCompileInputs.cache
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\paradigma.dll
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\ref\paradigma.dll
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\paradigma.pdb
+C:\Projetos\paradigma\tarefa02\obj\Debug\net5.0\paradigma.genruntimeconfig.cache
